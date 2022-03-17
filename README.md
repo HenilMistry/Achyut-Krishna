@@ -3,8 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <p align="center">
   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
-  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
- </p>
+  
 
 <div align='center'>
   <img align='right' src='https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif' width='200'>

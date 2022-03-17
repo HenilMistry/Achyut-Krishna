@@ -34,7 +34,11 @@ while True:
   - 👔 I'm working on trying to find a potion that gives me the anti-procrastination buff🧝‍♂
   
   > _"Currently living my life at a speed of 244 wtf/s"_ - **Neel**
-  
+ <br/>
+
+<a href="https://github.com/Achyut-Krishna/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Achyut-Krishna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 <!--   
   <details>
     <summary>🌼 Reach out & Connect with me!</summary>

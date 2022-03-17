@@ -11,7 +11,7 @@
 ```python
 import time, depression, notSleep
 while True:
-    "https://Achyut_Krishna.github.io".procrastinate()
+    "https://achyut-krishna.github.io".procrastinate()
     time.notSleep(1)
     depression=True
     

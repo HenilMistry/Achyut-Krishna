@@ -42,7 +42,7 @@ while True:
 
 <br>
 
-## 📊 My Github Stats
+##  📊  My Github Stats
 
   <br/>
     <a href="https://github.com/Achyut-Krishna/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Achyut-Krishna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -59,7 +59,7 @@ while True:
   <details>
     <summary>🌼 Reach out & Connect with me!</summary>
   </details> -->
-## Connect with me:
+##  Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bavisetti-narayan-a94b5918b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

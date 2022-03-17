@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Achyut Krishna Sai</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
-  
-
 <div align='center'>
   <img align='right' src='https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif' width='200'>
 
